@@ -1,5 +1,5 @@
 import pretty_print
-def calculate_squere(x):
+def calculate_square(x):
     return x**2
 
 def calculate_cube(x):
